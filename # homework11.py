@@ -44,11 +44,14 @@
 # print(len(new_list))
 
 # Ex143
-first = input("type a text: ")
-second = input("type a text: ")
-if len(first) == len(reversed(second)):
-    print("Yes")
-else:
-    print("No")
+# first = input("type a text: ")
+# second = input("type a text: ")
+# a = sorted(first)
+# b = sorted(second)
+# if a == b:
+#     print(True)
+# else:
+#     print(False)
+
 
 
