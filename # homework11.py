@@ -46,7 +46,7 @@
 # Ex143
 first = input("type a text: ")
 second = input("type a text: ")
-if len(first) == len(reversed(second)):
+if len(first) == len(reversed(secondddd)):
     print("Yes")
 else:
     print("No")
