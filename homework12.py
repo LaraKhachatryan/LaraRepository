@@ -81,3 +81,7 @@
 # def multiply(n):
 #   print( n*5**len(str(abs(n))) )
 # multiply(100)
+
+def is_triangle(a, b, c):
+    print(True if a + b < c and a + c > b and b + c >a)
+is_triangle(1, 2, 2)
